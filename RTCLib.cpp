@@ -1,7 +1,7 @@
 /*
  *******************************************************************
   Eng. Abdulkadir MÜHENDİS, M.Sc. Embedded Systems Arcitect
-  Nextion Basic 3.5 inch with external RTC Module
+  Nextion Basic 3.5 inch with ready external RTC Module
  *******************************************************************
 */
 #include <Arduino.h>
