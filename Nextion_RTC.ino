@@ -2,6 +2,7 @@
  *******************************************************************
   Eng. Abdulkadir MÜHENDİS, M.Sc. Embedded Systems Arcitect
   Nextion Basic 3.5 inch with external RTC Module
+  Version 1.0 2019
  *******************************************************************
 */
 #include <Nextion.h>
