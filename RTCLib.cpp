@@ -13,6 +13,7 @@ RTCLib::RTCLib() {
 	#endif
 	//  refresh();
 }
+
 void RTCLib::refresh() {
 	#ifdef _VARIANT_ARDUINO_STM32_
 		RTCLIB_INIT_WIRE();
